@@ -1,7 +1,7 @@
- ##Hello World. I'm Jossue Fuentes 👋.
+ ##Hello Worl, I am Alejos :D 👋.
 ---
 <p>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4b826b80-0d10-452b-af87-7401f1ccef95/dgueo0a-326160e4-c0c6-4d6e-97fe-d6da330089bf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRiODI2YjgwLTBkMTAtNDUyYi1hZjg3LTc0MDFmMWNjZWY5NVwvZGd1ZW8wYS0zMjYxNjBlNC1jMGM2LTRkNmUtOTdmZS1kNmRhMzMwMDg5YmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eoA98xalOFdQHaNieKBDcsn85W4DvmaXHYmqXaQz7IY" align="right" width="25%" height="30%"/>
+  <img src="http://gifgifs.com/animations/anime/dragon-ball-z/Frieza/frieza_16.gif" align="right" width="25%" height="30%"/>
   <samp>
     <br>Soy un futuro ingeniero en sistemas :D
     <br>
