@@ -7,7 +7,7 @@
     <br>
     <br>🔹 Abstento a cualquier tipo de inteligencia artificial.
     <br>🔹 Prodigio de la programación.
-    <br>🔹 ¿Pasatiempos favorito? Progamar.
+    <br>🔹 ¿Pasatiempos favorito? Programar.
 
  </samp>
    <br>
