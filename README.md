@@ -1,13 +1,14 @@
  #Hello World, I am Alejos :D 👋.
 ---
 <p>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b1b05e88-1284-4523-9f55-09d199c58828/dfov4st-05d4dd59-299f-48e0-a657-f6e6f1b6049e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IxYjA1ZTg4LTEyODQtNDUyMy05ZjU1LTA5ZDE5OWM1ODgyOFwvZGZvdjRzdC0wNWQ0ZGQ1OS0yOTlmLTQ4ZTAtYTY1Ny1mNmU2ZjFiNjA0OWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5N2Zxc9EOpEPnuCAXnWoU2WgPmyti4iQJb7hMGfvD8A" align="right" width="40%" height="10%"/>
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/1f0a5a9eb2c8e4dcc3dcbda199bc0bc4-1586630938/goku%20black/make-a-pixel-art-gif.gif" align="right" width="40%" height="10%"/>
   <samp>
     <br>Soy un futuro ingeniero en sistemas :D
     <br>
     <br>🔹 Abstento a cualquier tipo de inteligencia artificial.
     <br>🔹 Prodigio de la programación.
     <br>🔹 ¿Pasatiempos favorito? Programar.
+    <br>🔹 Enfocado en todas mis metas.
 
  </samp>
    <br>
