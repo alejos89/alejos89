@@ -11,6 +11,7 @@ Hello World, I`m Alejos :D
     <br>+ 🔥 100% enfocado en mis metas
     <br> + 🧠 Abstento a IA tradicional
     <br>+ 💻 Prodigio de la programación
+    <br> + 💪Todo lo que sé es gracias a Rockemma.
 </samp>
    <br>
   <br>
