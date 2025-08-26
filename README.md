@@ -3,7 +3,7 @@ Hello World, I`m Alejos :D
 ---
 <p>
  
-  <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" align="right" width="40%" height="40%"/>
+  <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" align="right" width="30%" />
   <samp>
     <br>Soy un futuro ingeniero en sistemas :D
     <br>
