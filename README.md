@@ -18,7 +18,7 @@ Hello World, I`m Alejos :D
   <p align="center">
     <samp>
       "HTML" | "CSS" | "Git" | "Java SE" | "SQL" | "Bash" | "Linux"
-     <img src="https://i.gifer.com/EcRO.gif" align="bottom" width="70%" />
+     <img src="https://i.gifer.com/EcRO.gif" align="bottom" width="100%" />
 
    </samp>
   <br>
