@@ -18,7 +18,7 @@ Hello World, I`m Alejos :D
   <p align="center">
     <samp>
       "HTML" | "CSS" | "Git" | "Java SE" | "SQL" | "Bash" | "Linux"
-     <img src="https://i.makeagif.com/media/4-26-2016/78hqza.gif" align="bottom" width="100%" />
+     <img src="https://i.makeagif.com/media/4-26-2016/78hqza.gif" align="bottom" width="80%" margin-top:20% />
 
    </samp>
   <br>
