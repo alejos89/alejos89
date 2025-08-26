@@ -3,7 +3,7 @@ Hello World, I`m Alejos :D
 ---
 <p>
  
-  <img src="https://i.gifer.com/EcRO.gif" align="right" width="20%" height="10%"/>
+  <img src="https://i.gifer.com/EcRO.gif" align="right" width="20%" height="20%"/>
   <samp>
     <br>Soy un futuro ingeniero en sistemas :D
     <br>
