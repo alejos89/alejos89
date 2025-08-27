@@ -12,7 +12,8 @@ Hello World, I´m Alejoss :D
     <br>+☕ Intento comprender Java SE (ojalá borraran la POO).
     <br>+👶🏻 Padre de Jorge López 👶🏻
     <br>+ Todo lo que sé es gracias a Rockemma.
- <br> "Haz de tu vida un sueño, y de tu sueño una realidad."
+     <br>
+                    <br> "Haz de tu vida un sueño, y de tu sueño una realidad."
 </samp>
    <br>
   <br>
