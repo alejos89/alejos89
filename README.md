@@ -1,17 +1,18 @@
 
-Hello World, I`m Alejos :D
+Hello World, I´m Alejoss :D
 ---
 <p>
  
   <img src="https://media.tenor.com/VdIKn05yIh8AAAAM/cat-sleep.gif" align="right" width="20%" />
   <samp>
-    <br>Soy un futuro ingeniero en sistemas :D
+    <br>Seré un futuro ingeniero en sistemas (o eso espero) :D
     <br>
-    <br>+ 🎯 Objetivo: Excelencia técnica
-    <br>+ 🔥 100% enfocado en mis metas
-    <br> + 🧠 Abstento a IA tradicional
-    <br>+ 💻 Prodigio de la programación
-    <br> + 💪Todo lo que sé es gracias a Rockemma.
+    <br>+ Siempre busco ayudar ;)
+    <br>+ ¿Mi vicio? Programar.
+    <br>+ Intento comprender Java SE (ojalá borraran la POO).
+    <br>+ Padre de Jorge López 👶🏻
+    <br>+ Todo lo que sé es gracias a Rockemma.
+ <br> "Haz de tu vida un sueño, y de tu sueño una realidad."
 </samp>
    <br>
   <br>
