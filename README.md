@@ -7,10 +7,10 @@ Hello World, I´m Alejoss :D
   <samp>
     <br>Seré un futuro ingeniero en sistemas (o eso espero) :D
     <br>
-    <br>+ Siempre busco ayudar ;)
-    <br>+ ¿Mi vicio? Programar.
-    <br>+ Intento comprender Java SE (ojalá borraran la POO).
-    <br>+ Padre de Jorge López 👶🏻
+    <br>+❤️ Siempre busco ayudar ;)
+    <br>+🖥️ ¿Mi vicio? Programar.
+    <br>+☕ Intento comprender Java SE (ojalá borraran la POO).
+    <br>+👶🏻 Padre de Jorge López 👶🏻
     <br>+ Todo lo que sé es gracias a Rockemma.
  <br> "Haz de tu vida un sueño, y de tu sueño una realidad."
 </samp>
